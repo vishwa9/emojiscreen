@@ -1861,5 +1861,13 @@ const emojiItems = [
         type: "movie",
         year: "2012",
         itemLink: "https://www.imdb.com/title/tt0948470/"
+    },
+    {
+        title: "The Amazing Spider-Man 2",
+        emojiImgs: "🕸🕷😲⚡",
+        genres: ["Action", "Adventure", "Sci-Fi"],
+        type: "movie",
+        year: "2014",
+        itemLink: "https://www.imdb.com/title/tt1872181/"
     }
 ]
