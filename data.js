@@ -1829,5 +1829,13 @@ const emojiItems = [
         type: "movie",
         year: "2018",
         itemLink: "https://www.imdb.com/title/tt4633694/"
+    },
+    {
+        title: "Spider-Man: Homecoming",
+        emojiImgs: "🕷🏠👦",
+        genres: ["Action", "Adventure", "Sci-Fi"],
+        type: "movie",
+        year: "2017",
+        itemLink: "https://www.imdb.com/title/tt2250912/"
     }
 ]
