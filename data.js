@@ -1821,5 +1821,13 @@ const emojiItems = [
         type: "movie",
         year: "2004",
         itemLink: "https://www.imdb.com/title/tt0316654/"
+    },
+    {
+        title: "Spider-Man: Into the Spider-Verse",
+        emojiImgs: "🕷👦🏾👧🐷",
+        genres: ["Animation", "Action", "Adventure"],
+        type: "movie",
+        year: "2018",
+        itemLink: "https://www.imdb.com/title/tt4633694/"
     }
 ]
