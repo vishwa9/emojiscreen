@@ -1805,5 +1805,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Spider-Man",
+        emojiImgs: "🕷🕸🤓🦹",
+        genres: ["Action", "Adventure", "Sci-Fi"],
+        type: "movie",
+        year: "2002",
+        itemLink: "https://www.imdb.com/title/tt0145487/"
     }
 ]
