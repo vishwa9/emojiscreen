@@ -1837,5 +1837,13 @@ const emojiItems = [
         type: "movie",
         year: "2017",
         itemLink: "https://www.imdb.com/title/tt2250912/"
+    },
+    {
+        title: "Spider-Man: Far from Home",
+        emojiImgs: "🕷🌆🏃‍♂️",
+        genres: ["Action", "Adventure", "Sci-Fi"],
+        type: "movie",
+        year: "2019",
+        itemLink: "https://www.imdb.com/title/tt6320628/"
     }
 ]
